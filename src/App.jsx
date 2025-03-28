@@ -23,7 +23,12 @@ function App() {
             />
           </div>
           <div className="column is-4">
-            <ProfileCard/>
+            <ProfileCard
+            title="attack on titans"
+            handle="@eren"
+            image="https://es.web.img2.acsta.net/c_300_300/img/0a/4e/0a4e1521ddaa4e1589728084121b9eeb.png"
+
+            />
           </div>
           <div className="column is-4">
             <ProfileCard/>

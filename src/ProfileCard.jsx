@@ -1,4 +1,4 @@
-function ProfileCard(title, handle, image) {
+function ProfileCard({title, handle, image}) {
   
     return (
     <div className="card">
