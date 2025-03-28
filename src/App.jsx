@@ -24,14 +24,18 @@ function App() {
           </div>
           <div className="column is-4">
             <ProfileCard
-            title="attack on titans"
-            handle="@eren"
-            image="https://es.web.img2.acsta.net/c_300_300/img/0a/4e/0a4e1521ddaa4e1589728084121b9eeb.png"
+            title="cortana"
+            handle=""
+            image="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1L5YJ7uul7AkVDU7CFa-aQx_Qa-b0aMXvba2phE5FGjPU6KLZVTC9eiHWnxGq_ni1CCg&usqp=CAU"
 
             />
           </div>
           <div className="column is-4">
-            <ProfileCard/>
+            <ProfileCard
+            title="siri"
+            handle=""
+            image="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIlf76syoG0LJRhxbgjUrsBY6f-6fS-RAuXw&s"
+/>
           </div>
         </div>
       </section>
